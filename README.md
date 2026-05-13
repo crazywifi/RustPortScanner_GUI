@@ -1,4 +1,4 @@
-# PortScanner v2.1
+# RustPortScanner v2.1
 
 **nmap-style port scanner with an embedded production-quality web GUI**
 
