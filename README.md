@@ -6,6 +6,8 @@ Replaces the FLTK native GUI (v1.0) with an embedded HTTP server that serves a r
 
 ---
 
+![RustPortScanner](https://raw.githubusercontent.com/crazywifi/RustPortScanner_GUI/refs/heads/main/RustPortScanner.png)
+
 ## What Changed (v1.0 → v2.1)
 
 | Issue in v1.0 | Resolution in v2.1 |
