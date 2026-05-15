@@ -6,6 +6,9 @@ Replaces the FLTK native GUI (v1.0) with an embedded HTTP server that serves a r
 
 ---
 
+<img width="1578" height="1276" alt="image" src="https://github.com/user-attachments/assets/b400bef3-20f9-48fd-94aa-6d2faec74944" />
+
+
 ## What Changed (v1.0 → v2.1)
 
 | Issue in v1.0 | Resolution in v2.1 |
